@@ -1,7 +1,7 @@
 
 account = {
-	"Username":"NewCuenta5",
-	"Password":"xp10it-sistem"
+	"Username":"xxxxx",
+	"Password":"xxxxx"
 }
 
 
